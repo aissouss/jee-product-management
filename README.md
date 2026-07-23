@@ -119,7 +119,7 @@ cd jee-product-management
 
 This project was developed as a Java EE exam during the L3 Software Engineering program.
 
-**Authors:** Aissya Boukraa  
+**Authors:** Aissouss  
 [GitHub](https://github.com/aissouss)
 
 ---
